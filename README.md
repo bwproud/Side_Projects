@@ -1,0 +1,2 @@
+# Side_Projects
+Side projects including custom implementations of Djikstras algorithm, Bellman Fords algorithm, Huffman's encoding algorithm, and counting/radix sort. Other projects include a Sudoku solver that solves the hardest sudoku puzzle ever in less than 5 seconds, a custom implementation of the game of War, an orm layer I made in PHP, some api metadata tests written in groovy, and some database stuff.
